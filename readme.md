@@ -56,7 +56,7 @@ GIF Images
 
 ## 라이센스
 
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
+MIT &copy; [RosieOh](mailto:dhxogns920@gmail.com)
 
 <!-- Stack Icon Refernces -->
 
