@@ -2,7 +2,8 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+![image](https://github.com/RosieOh/MediRing/assets/104690434/7bb29240-a156-42a2-8a8b-e1aa2d2a9b36)
+
   <br>
 </p>
 
