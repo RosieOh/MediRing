@@ -1,17 +1,16 @@
 ## 🔥MediRing Shopping Mall Web Project
 
-|                   오태훈                  |                                                       
-|:--------------------------------------:|
-|                                        | 
-| [@RosieOh](https://github.com/rosieoh) |
-
-# 프로젝트 이름
-
 <p align="center">
   <br>
   <img src="./images/common/logo-sample.jpeg">
   <br>
 </p>
+
+|                   오태훈                  |                                                       
+|:--------------------------------------:|
+|                                        | 
+| [@RosieOh](https://github.com/rosieoh) |
+
 
 목차
 
