@@ -1,14 +1,11 @@
 ## 🔥MediRing Shopping Mall Web Project
 
 <p align="center">
-  <br>
+
 ![image](https://github.com/RosieOh/MediRing/assets/104690434/5ba5f054-fe33-4980-ab5e-0f4d05fedf16)
-
-
-  <br>
 </p>
 
-|                   오태훈               |                                                       
+|      오태훈                               |                                                       
 |:--------------------------------------:|
 |                                        | 
 | [@RosieOh](https://github.com/rosieoh) |
@@ -16,33 +13,38 @@
 
 ## 프로젝트 소개
 
-<p align="justify">
-프로젝트 개요/동기
-</p>
+[//]: # (<p align="justify">)
 
-<p align="center">
-GIF Images
-</p>
+[//]: # (프로젝트 개요/동기)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (GIF Images)
+
+[//]: # (</p>)
 
 <br>
 
 ## 기술 스택
 
-| Java       | Spring Framework     |  JSP     |  Node   |
-| :--------: | :------------------: | :------: | :-----: |
-|   ![js]    |   ![springframework] |  ![jsp]  | ![node] |
+|          Java           |        Spring Framework         |          JSP           |
+|:-----------------------:|:-------------------------------:|:----------------------:|
+| ![img_3.png](img_3.png) | ![img_1.png](img_1.png)  ![jsp] |![img_2.png](img_2.png) | 
 
 <br>
 
 ## 구현 기능
 
-### 기능 1
+### 기능 1 : 회원가입, 로그인, 아이디 찾기, 비밀번호 찾기
 
-### 기능 2
+### 기능 2 : 공지사항, 자주 묻는 질문, Q&A, 자유게시판
 
-### 기능 3
+### 기능 3 : 오시는 길, 실시간 채팅
 
-### 기능 4
+### 기능 4 : 관리자(회원관리, 공지사항, FAQ, 자주 묻는 질문, Q&A, 자유게시판) 구현
 
 <br>
 
@@ -54,18 +56,12 @@ GIF Images
 
 <br>
 
-## 라이센스
-
-MIT &copy; [RosieOh](mailto:dhxogns920@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
+<!--
 [js]: /images/stack/javascript.svg
 [ts]: /images/stack/typescript.svg
 [react]: /images/stack/react.svg
 [node]: /images/stack/node.svg
-
-
+-->
 
 ## 💡 Commit Convention
 
