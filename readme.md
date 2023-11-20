@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-    ![image](https://github.com/RosieOh/MediRing/assets/104690434/7bb29240-a156-42a2-8a8b-e1aa2d2a9b36)
+<img alt="usecasediagram11" src="https://github.com/ChunjaeFullStackJavaMaker/Chunjae_Team_Proj02/assets/138674233/738dfb57-fedf-42e4-88cd-558ad01eac16">
 
   <br>
 </p>
