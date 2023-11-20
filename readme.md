@@ -32,7 +32,7 @@
 
 ### 📚 Tech Stack 
 #### 💻 Development
-<img src="https://skillicons.dev/icons?i=java,spring,mariadb,javascript,jquery& perline="/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,jquery& perline="/>
 
 
 <br>
