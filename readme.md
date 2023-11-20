@@ -28,7 +28,7 @@ GIF Images
 
 | Java       | Spring Framework     |  JSP     |  Node   |
 | :--------: | :------------------: | :------: | :-----: |
-|   ![js]    |   ![springframework] | ![jsp]   | ![node] |
+|   ![js]    |   ![springframework] |  ![jsp]  | ![node] |
 
 <br>
 
