@@ -1,4 +1,4 @@
-## 🔥MediRing Shopping Mall Web Project
+ ## 🔥MediRing Shopping Mall Web Project
 
 <p align="center">
 
@@ -32,7 +32,7 @@
 
 ### 📚 Tech Stack 
 #### 💻 Development
-<img src="https://skillicons.dev/icons?i=java,spring,mariadb&perline="/>
+<img src="https://skillicons.dev/icons?i=java,spring,mariadb & perline="/>
 
 
 <br>
