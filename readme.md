@@ -32,7 +32,7 @@
 
 ### 📚 Tech Stack 
 #### 💻 Development
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,firebase,styledcomponents &perline="/>
+<img src="https://skillicons.dev/icons?i=java,jsp,spring &perline="/>
 
 
 <br>
