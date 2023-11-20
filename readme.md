@@ -5,7 +5,7 @@
 ![image](https://github.com/RosieOh/MediRing/assets/104690434/5ba5f054-fe33-4980-ab5e-0f4d05fedf16)
 </p>
 
-|      오태훈                               |                                                       
+|      오태훈                            |                                                       
 |:--------------------------------------:|
 |                                        | 
 | [@RosieOh](https://github.com/rosieoh) |
@@ -32,7 +32,7 @@
 
 |          Java           |        Spring Framework         |          JSP           |
 |:-----------------------:|:-------------------------------:|:----------------------:|
-| ![img_3.png](img_3.png) | ![img_1.png](img_1.png)  ![jsp] |![img_2.png](img_2.png) | 
+| ![img_3.png](img_3.png) | ![img_1.png](img_1.png)         |![img_2.png](img_2.png) | 
 
 <br>
 
